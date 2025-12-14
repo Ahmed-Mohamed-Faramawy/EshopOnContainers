@@ -44,7 +44,7 @@ public class AccountService
 
     public async Task<SignInResult> LoginUser(LoginInputModel model)
     {
-        var token = await _signInManager.PasswordSignInAsync(model.UserName, model.Password, model.RememberMe, lockoutOnFailure: true);
-        return token;
+        var result = await _signInManager.PasswordSignInAsync(model.UserName, model.Password, model.RememberMe, lockoutOnFailure: true);
+        return result;
     }
 }

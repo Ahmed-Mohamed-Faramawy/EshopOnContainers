@@ -104,3 +104,4 @@ D:\NET\MyEshopOnContainers\MySampleProject.Catalog.API\obj\Debug\net10.0\MySampl
 D:\NET\MyEshopOnContainers\MySampleProject.Catalog.API\obj\Debug\net10.0\MySampleProject.Catalog.API.genruntimeconfig.cache
 D:\NET\MyEshopOnContainers\MySampleProject.Catalog.API\obj\Debug\net10.0\ref\MySampleProject.Catalog.API.dll
 D:\NET\MyEshopOnContainers\MySampleProject.Catalog.API\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NET\MyEshopOnContainers\MySampleProject.Catalog.API\obj\Debug\net10.0\MySampleProject.Catalog.API.sourcelink.json
